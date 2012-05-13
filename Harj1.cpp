@@ -1,6 +1,8 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
+//Veijo Väisänen
+//XXXXXXXXXXXXXXX
 void main()
 {
     float klampo[12] = {0};
