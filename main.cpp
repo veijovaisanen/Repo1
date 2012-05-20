@@ -7,7 +7,7 @@ void main()
 {	 
 	int ika; 
 	char *etunimi; 
-	etunimi = new char[20];
+	etunimi = new char[30];
 	char *sukunimi; 
 	sukunimi = new char[40];	
 	cout<<"\nAnna etunimi"<<endl;
