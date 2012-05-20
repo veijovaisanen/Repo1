@@ -11,7 +11,11 @@ void main()
 	char *sukunimi; 
 	sukunimi = new char[40];	
 	cout<<"\nAnna etunimi"<<endl;
-	cin>>etunimi;	
+ 	cin>>etunimi;	
+ 	cin>>etunimi;
+	cout<<"\nAnna sukunimi;"<<endl;
+	cin>>sukunimi;		
+ 
 	cout<<"\nNimi: "<<etunimi<<" "<<sukunimi<<","<<ika<<",vuotias"<<endl;
 	delete [] etunimi;
 	delete [] etunimi;
