@@ -3,6 +3,7 @@
 using namespace std;
 //Veijo Väisänen
 //XXXXXXXXXXXXXXX
+//Uusi rivi lisätty
 void main()
 {
     float klampo[12] = {0};
