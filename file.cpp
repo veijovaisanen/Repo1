@@ -2,6 +2,7 @@
 #include <iomanip>
 using namespace std;
 //A comment line
+//B new line
 void main()
 {	 
 	int ika; 
