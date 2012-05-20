@@ -14,6 +14,8 @@ void main()
  	cin>>etunimi;
 	cout<<"\nAnna sukunimi;"<<endl;
 	cin>>sukunimi;
+	cout<<"\nAnna ikä;"<<endl;
+	cin>>ika;
 	cout<<"\nNimi: "<<etunimi<<" "<<sukunimi<<","<<ika<<",vuotias"<<endl;
 	delete [] etunimi;
 	delete [] etunimi;
