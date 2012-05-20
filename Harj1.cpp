@@ -4,6 +4,7 @@ using namespace std;
 //Veijo Väisänen
 //XXXXXXXXXXXXXXX
 //Uusi rivi lisätty
+//Another row
 void main()
 {
     float klampo[12] = {0};
